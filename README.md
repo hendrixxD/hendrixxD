@@ -1,1 +1,1 @@
-(https://images.app.goo.gl/hMCL2EKqeDY9ETrp9)](https://github.com/hendrixxD)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hendrixxD&theme=dark)](https://git.io/streak-stats)
